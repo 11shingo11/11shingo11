@@ -15,15 +15,10 @@ Now I am studying the theory of Quality Control.
 <tr><td>Working with different libraries</td><td>Attention to detail</td></tr> 
 <tr><td>MySQL</td><td>Critical thinking and information analysis</td></tr> 
 <tr><td>Types of testing(Functional, Non-functional, Iterative, Regressive, etc.</td><td></td></tr> 
-<<<<<<< HEAD
-<tr><td>Test design and its techniques</td><td></td</tr> 
-<tr><td>Test cases Bug reports</td><td></td</tr> 
-<tr><td>Jira</td><td></td</tr>
-=======
-<tr><td>Test design and its techniques</td></tr><td></td></tr> 
-<tr><td>Test cases Bug reports</td></tr><td></td></tr>  
-<tr><td>Jira</td></tr><td></td></tr> 
->>>>>>> 038f8e5a002c17d0ddedbb7acc8002afc9a878b3
+<tr><td>Test design and its techniques</td><td></td></tr> 
+<tr><td>Test cases Bug reports</td><td></td></tr> 
+<tr><td>Jira</td><td></td></tr>
+
 
 
 </table>
