@@ -1,4 +1,4 @@
-![Header](https://github.com/11shingo11/11shingo11/blob/main/assets/1fcc.gif)
+![Header]()
 <hr>
 <ins>About me:</ins>
 
