@@ -14,7 +14,7 @@ Now I am studying the theory of Quality Control.
 <tr><td>GitHub</td><td>Time management and prioritization</td></tr> 
 <tr><td>Working with different libraries</td><td>Attention to detail</td></tr> 
 <tr><td>MySQL</td><td>Critical thinking and information analysis</td></tr> 
-<tr><td>Types of testing(Functional, Non-functional, Iterative, Regressive, etc.</td><td></td></tr> 
+<tr><td>Types of testing(Functional, Non-functional, Iterative, Regressive, etc.)</td><td></td></tr> 
 <tr><td>Test design and its techniques</td><td></td></tr> 
 <tr><td>Test cases Bug reports</td><td></td></tr> 
 <tr><td>Jira</td><td></td></tr>
