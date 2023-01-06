@@ -1,29 +1,32 @@
 ![Header](https://github.com/11shingo11/11shingo11/blob/main/assets/1fcc.gif)
+<hr>
+<ins>About me:</ins>
 
-About me:
 I am a python programmer. I love doing it, and I am constantly trying to learn something new and improve my skills. 
 I am diligent in my work, I try to understand the issue and solve it. 
 Now I am studying the theory of Quality Control.
 
-Hard skill :                                                                        
-- Python                                                                            
-- Django                                                                            
-- GitHub                                                                            
-- Working with different libraries                                                  
-- MySQL                                                                              
-- Types of testing(Functional, Non-functional, Iterative, Regressive, etc.) 
-- Test design and its techniques 
-- Test cases Bug reports 
-- Jira
+<table>
 
-Soft Skills:
-- teamwork, negotiation
-- search for information and decision-making
-- time management and prioritization
-- attention to detail 
-- critical thinking and information analysis
+<tr><th>Hard skill</th><th>Soft Skills</th></tr>
+<tr><td>Python</td><td>Teamwork, negotiation</td></tr>
+<tr><td>Django</td><td>Search for information and decision-making</td></tr>
+<tr><td>GitHub</td><td>Time management and prioritization</td></tr> 
+<tr><td>Working with different libraries</td><td>Attention to detail</td></tr> 
+<tr><td>MySQL</td><td>Critical thinking and information analysis</td></tr> 
+<tr><td>Types of testing(Functional, Non-functional, Iterative, Regressive, etc.</td><td></td></tr> 
+<tr><td>Test design and its techniques</td></tr> 
+<tr><td>Test cases Bug reports</td></tr> 
+<tr><td>Jira</td></tr>
 
-Language and Tools
+
+</table>
+
+
+
+
+<ins>Language and Tools</ins>
+
 
 ![Python](https://img.shields.io/badge/Python-483D8B?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-483D8B?style=for-the-badge&logo=Django)
