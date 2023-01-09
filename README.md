@@ -34,3 +34,4 @@ Now I am studying the theory of Quality Control.
 ![MySQL](https://img.shields.io/badge/MySQL-483D8B?style=for-the-badge&logo=MySQL)
 ![PGitHub](https://img.shields.io/badge/GitHub-483D8B?style=for-the-badge&logo=GitHub)
 ![jira](https://img.shields.io/badge/jira-483D8B?style=for-the-badge&logo=Jira)
+![Postman](https://img.shields.io/badge/Postman-483D8B?style=for-the-badge&logo=Postman)
