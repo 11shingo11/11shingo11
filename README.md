@@ -22,8 +22,11 @@ Now I am studying the theory of Quality Control.
 
 
 </table>
+<ins>Testing documentation</ins>
 
-
+- [Cheklists](https://github.com/11shingo11/Cheklists.git)
+- [Test-Cases](https://github.com/11shingo11/Test-Cases.git)
+- [Bug-Reports](https://github.com/11shingo11/Bugreports)
 
 
 <ins>Language and Tools</ins>
