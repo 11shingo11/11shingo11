@@ -47,7 +47,7 @@ If you have any questions or would like to discuss potential collaborations, fee
 <ins>Language and Tools</ins>
 
 
-![C#](https://img.shields.io/badge/C#-483D8B?style=for-the-badge&logo=C#)
+![C#](https://img.shields.io/badge/C%20SHARP-483D8B?style=for-the-badge&logo=Csharp)
 ![Unity](https://img.shields.io/badge/Unity-483D8B?style=for-the-badge&logo=Unity)
 ![Python](https://img.shields.io/badge/Python-483D8B?style=for-the-badge&logo=Python)
 ![Django](https://img.shields.io/badge/Django-483D8B?style=for-the-badge&logo=Django)
