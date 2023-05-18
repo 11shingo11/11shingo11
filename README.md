@@ -55,6 +55,6 @@ If you have any questions or would like to discuss potential collaborations, fee
 ![PGitHub](https://img.shields.io/badge/GitHub-483D8B?style=for-the-badge&logo=GitHub)
 ![jira](https://img.shields.io/badge/jira-483D8B?style=for-the-badge&logo=Jira)
 ![Postman](https://img.shields.io/badge/Postman-483D8B?style=for-the-badge&logo=Postman)
-![Postgre](https://img.shields.io/badge/Postgre-483D8B?style=for-the-badge&logo=Postgre)
+![Postgre](https://img.shields.io/badge/Postgre-483D8B?style=for-the-badge&logo=PostgreSQL)
 
 
