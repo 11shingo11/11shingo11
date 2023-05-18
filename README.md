@@ -36,11 +36,13 @@ If you have any questions or would like to discuss potential collaborations, fee
 - [Bug-Reports](https://github.com/11shingo11/Bugreports)
 
 </table>
+</table>
 <ins>Unity projects</ins>
+
 - [SHMUP](https://github.com/11shingo11/Space-SHMUP)
 - [2D Dungeon game](https://github.com/11shingo11/Dungeon)
 - [Rougelike](https://github.com/11shingo11/Prjct_X)
-
+</table>
 
 <ins>Language and Tools</ins>
 
